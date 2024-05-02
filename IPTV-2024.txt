@@ -143,6 +143,15 @@ NEWTV精品大剧,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/
 NEWTV军事评论,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 NEWTV明星大片,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 NEWTV欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+壹电影
+,https://z88.ubtvfans.com/live/rx1/2284/79d59ad50a6ff1e27f57853a0e5666aa/index.m3u8
+CHC动作电影,http://113.64.145.91:8081/hls/62/index.m3u8
+淘电影,http://221.217.53.241:8686/rtp/239.3.1.250:8001
+淘电影,http://123.122.162.250:19999/rtp/239.3.1.250:8001
+SYFY电影,http://50.7.137.106:8080/SYFY/index.m3u8?token=test
+AMC电影,http://66.165.240.154:8080/live/sf2xby4/hls.m3u8
+经典电影,http://113.64.145.187:8081/hls/61/index.m3u8
+好莱坞电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8554/.m3u8
 
 国际,#genre#
 国际3,,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
