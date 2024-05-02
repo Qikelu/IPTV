@@ -1,8 +1,4 @@
 央视,#genre#
-3D肉蒲团,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/qh/yf/wo/e9/cc0187d5f4064e60a8d9507ccdbeaf4a.m3u8?love=freedom
-一路向西,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/fd/ea/eu/2q/7bd22841f6dd4b768ab5d1e38419bf4b.m3u8?love=freedom
-鸭王,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/fo/4n/1u/xg/304cc44af0334b39b0989c4e224ec966.m3u8?love=freedom
-爱很烂,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/vf/c1/xy/je/9c181c81984e456a9ade1fa8c0021770.m3u8?love=freedom
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV3,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
