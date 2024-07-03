@@ -1,11 +1,6 @@
 {
   "spider":"https://github.com/Qikelu/IPTV/blob/main/spider",
 "sites": [
-{"key":"豆豆","name":"🍊Ws┃智能过滤广告","type": 3, "api": "csp_DouDou","searchable": 0, "changeable": 0,
-    "ext": {
-    }},
-    {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"changeable":1, "changeable": 0,
-    "ext": {
-    }}
+ {"key":"豆豆","name":"🍊Ws┃智能过滤广告","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0}
   ]
   }
