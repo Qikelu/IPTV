@@ -1,5 +1,5 @@
 {
-  "spider": "../spider.jar",
+  "spider": "https://github.com/Qikelu/IPTV/blob/main/spider.jar",
   "sites": [
     {
       "key": "Douban",
